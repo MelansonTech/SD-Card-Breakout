@@ -1,0 +1,16 @@
+Added Component: Designator=J?(Conn,SD micro,503182-1852)
+Added Pin To Net: NetName=DATA2 Pin=J?-1
+Added Pin To Net: NetName=CD/DAT3 Pin=J?-2
+Added Pin To Net: NetName=CMD Pin=J?-3
+Added Pin To Net: NetName=+5 Pin=J?-4
+Added Pin To Net: NetName=CLK Pin=J?-5
+Added Pin To Net: NetName=DAT0 Pin=J?-7
+Added Pin To Net: NetName=DAT1 Pin=J?-8
+Added Pin To Net: NetName=DETECT Pin=J?-DT
+Added Pin To Net: NetName=GND Pin=J?-P1
+Added Pin To Net: NetName=GND Pin=J?-P2
+Added Pin To Net: NetName=GND Pin=J?-P3
+Added Pin To Net: NetName=GND Pin=J?-P4
+Added Pin To Net: NetName=GND Pin=J?-P5
+Added Pin To Net: NetName=SWITCH Pin=J?-SW
+Added Member To Class: ClassName=SD Card Breakout Member=Component J? Generic Header

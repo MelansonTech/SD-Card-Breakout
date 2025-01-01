@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SD Card Breakout With USB.CSPcbDoc   3/17/2021  10:50:24 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : SD Card Breakout With USB-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : SD Card Breakout With USB-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : SD Card Breakout With USB-SlotHoles-Plated.TXT
+EIA File   : SD Card Breakout With USB.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          13               71.07 mm (2.80 Inch)
+T2        0.45mm (17.716mil)       Slot           2                7248.60 mm (285.38 Inch)
+T3        1mm (39.37mil)           Round          14               52.00 mm (2.05 Inch)
+T4        1.016mm (40mil)          Round          2                2.54 mm (0.10 Inch)
+T5        4mm (157.48mil)          Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            32               7374.20 mm (290.32 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

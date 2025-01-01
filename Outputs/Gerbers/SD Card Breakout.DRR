@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SD Card Breakout.CSPcbDoc   10/1/2019  6:24:09 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SD Card Breakout.TXT
+EIA File   : SD Card Breakout.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          11               45.66 mm (1.80 Inch)
+T2        1mm (39.37mil)           Round          8                20.32 mm (0.80 Inch)
+T3        1.016mm (40mil)          Round          2                2.54 mm (0.10 Inch)
+T4        4mm (157.48mil)          Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            22               68.52 mm (2.70 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

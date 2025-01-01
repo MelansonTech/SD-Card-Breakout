@@ -1,0 +1,10 @@
+"Designator","Footprint","Mid X","Mid Y","Ref X","Ref Y","Pad X","Pad Y","Layer","Rotation","Comment"
+""
+"M1","Mech,Bracket,RA,#6,Threaded","52.1mm","-10.4705mm","52.1mm","-10.4705mm","52.1mm","-10.4705mm","T","270.00","4334"
+"J5","HEADER,_6_PIN,_0.1"_SPACEING_-_RA","36mm","-4.7075mm","36mm","-4.7075mm","29.65mm","-4.7075mm","T","360.00","Header, through hole,vertical, 6pin,1 Row,0.1", M20-9991245"
+"J4","Conn,USB_micro,AB,_Receptacle,USB3090-30-A","38.3mm","-20.3455mm","38.3mm","-19.0705mm","37mm","-19.0705mm","T","0.00","USB3090-30-A"
+"J3","HEADER-1X2,0.1",RA1","3.65mm","-4.7075mm","3.65mm","-4.7075mm","4.92mm","-4.7075mm","T","180.00","Generic Header"
+"J2","HEADER,8PIN,SINGLEROW,_RA,0.1"","17.62mm","-4.7075mm","17.62mm","-4.7075mm","26.51mm","-4.7075mm","T","180.00","HEADER,0.1",8Pin,SinlgeRow"
+"J1","Conn,SD_micro,503182-1852","22.496mm","-15.4175mm","22.446mm","-15.44mm","25.346mm","-21.795mm","T","180.00","5031821852"
+"C1","Cap,0805","10.5mm","-8.3705mm","10.5mm","-8.3705mm","9.55mm","-8.3705mm","T","360.00","Cap"
+

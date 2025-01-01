@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\shawn\OneDrive\Shawn\circuitstudio projects\SD Card Breakout\SD Card Breakout With USB.CSPcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=sd card breakout with usb-roundholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=sd card breakout with usb-slotholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=sd card breakout with usb-roundholes-nonplated.txt|LayerPairs=gtl,gbl

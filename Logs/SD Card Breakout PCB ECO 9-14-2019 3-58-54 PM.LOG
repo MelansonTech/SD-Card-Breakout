@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Member To Class: ClassName=SD Card Breakout Member=Component J1 5031821852
+Added Member To Class: ClassName=SD Card Breakout Member=Component J2 HEADER,0.1",8Pin,SinlgeRow

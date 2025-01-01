@@ -1,0 +1,3 @@
+Added Component: Designator=M1(Mech,Bracket,RA,#6,Threaded)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Member To Class: ClassName=SD Card Breakout Member=Component M1 4334

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:50:37 PM On 3/17/2021
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SD Card Breakout with USB.PrjPcb]
+   Generated File[BOM_PartType-SD Card Breakout with USB.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:50:48 PM On 3/17/2021
